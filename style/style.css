@@ -1,0 +1,30 @@
+.pad{
+  padding-left: 50px ;
+  padding-top:50px;
+}
+.stylish-color-dark{
+  background-color: #ddd;
+}
+img{
+  max-width: 100%;
+}
+div{
+  padding: 0px 10px 0px 10px;
+}
+h1{
+  font-size:4em;
+}
+h2{
+  font-size:2.5em;
+}
+h4{
+  font-size: 1.5em;
+}
+
+.container{
+  margin: auto;
+}
+.row{
+  padding: 5px 10px 5px 0px;
+  font-size: 1em;
+}
